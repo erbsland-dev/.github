@@ -71,3 +71,13 @@ When writing commit messages, follow these guidelines:
 * List *every* change of your commit, group the changes where possible.
 * If you do extensive changes, split them into multiple small commits.
 
+## Legal
+
+### Licensing of Contributions
+
+All contributions must be made under the same license as the project.
+
+### Copyright Notice for Contributions
+
+By contributing to this project, you agree to license your contributions under the same terms as the existing copyright and license. Your contributions will be incorporated into the existing copyrighted material without separate copyright attribution. This does not affect your rights to use your own contributions for any other purpose, including licensing them under different terms.
+
